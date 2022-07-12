@@ -1,0 +1,1 @@
+# VPNBeast Architecture
